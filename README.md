@@ -2,7 +2,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo.esser)
-[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/eduardo-schlickmann-esser)
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/eduardo-schlickmann-esser-a2b4b1272/)
 
 
 ## Tecnologias que mais utilizo
