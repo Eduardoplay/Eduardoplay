@@ -1,9 +1,8 @@
 ### Olá pessoal! Eu sou o Edu Esser 😄🚀 
 
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/gustavoneitzke)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo.esser)
-[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-neitzke)
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/eduardo-schlickmann-esser)
 
 
 ## Tecnologias que mais utilizo
